@@ -1,0 +1,10 @@
+movieID,title,genre,duration,image
+m1,Harry Potter,Fantasy,150,m1.jpg
+m2,Mr Bean,Comedy,75,m2.jpg
+m3,Iron Man,Action,105,m3.jpg
+m4,Lalaland,Romance,120,m4.jpg
+m5,Me Before You,Romance,110,m5.jpg
+m6,Incredible Hulk,Action,135,m6.jpg
+m7,Dumb & Dumber,Comedy,95,m7.jpg
+m8,Narnia,Fantasy,180,m8.jpg
+m9,Wicked,Fantasy,160,m9.jpg

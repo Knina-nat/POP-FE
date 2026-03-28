@@ -1,0 +1,4 @@
+userID,username,preferences,watch_history,ratings
+U1,john,Fantasy;Action,,
+U2,jack,Comedy;Fantasy,,
+U3,paul,Romance;Comedy;Fantasy,m8,m8:5
